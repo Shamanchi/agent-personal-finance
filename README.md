@@ -3,7 +3,7 @@
 [![CI](https://github.com/Shamanchi/agent-personal-finance/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamanchi/agent-personal-finance/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](./Dockerfile)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License: Shamanchi](https://img.shields.io/badge/License-Shamanchi-green.svg)](./LICENSE)
 
 > **English TL;DR:** FastAPI personal finance agent: income/expense ledger, monthly budgets per category, monthly summary with savings rate, and over-budget alerts. Fully offline, no tokens needed.
 
